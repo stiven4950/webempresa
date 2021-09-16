@@ -10,3 +10,5 @@
 
 # misc
 .env
+
+*.sqlite3
